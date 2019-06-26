@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ermeson2018/frontend/static/css/main.a6f91605.chunk.css",
+    "main.js": "/Ermeson2018/frontend/static/js/main.6f79c7e5.chunk.js",
+    "main.js.map": "/Ermeson2018/frontend/static/js/main.6f79c7e5.chunk.js.map",
+    "runtime~main.js": "/Ermeson2018/frontend/static/js/runtime~main.f2bab168.js",
+    "runtime~main.js.map": "/Ermeson2018/frontend/static/js/runtime~main.f2bab168.js.map",
+    "static/js/2.54859327.chunk.js": "/Ermeson2018/frontend/static/js/2.54859327.chunk.js",
+    "static/js/2.54859327.chunk.js.map": "/Ermeson2018/frontend/static/js/2.54859327.chunk.js.map",
+    "index.html": "/Ermeson2018/frontend/index.html",
+    "precache-manifest.7ef7e6a2044a4745b7c264455e90cc62.js": "/Ermeson2018/frontend/precache-manifest.7ef7e6a2044a4745b7c264455e90cc62.js",
+    "service-worker.js": "/Ermeson2018/frontend/service-worker.js",
+    "static/css/main.a6f91605.chunk.css.map": "/Ermeson2018/frontend/static/css/main.a6f91605.chunk.css.map",
+    "static/media/logo.svg": "/Ermeson2018/frontend/static/media/logo.87f18662.svg"
+  }
+}
